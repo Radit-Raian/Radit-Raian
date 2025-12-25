@@ -45,6 +45,6 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 
 ## 📊 GitHub Stats:
 
-<img alt="Orion's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbit2307&theme=white&&hide_border=true" width='48%' /> <img alt="Orion's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=rabbit2307&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="Orion's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=rabbit2307&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 
 
