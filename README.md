@@ -1,4 +1,4 @@
-# 👋 Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Radit Raian!](https://rajit13.github.io/](https://github.com/rabbit2307/)
+# 👋 Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Radit Raian!](https://github.com/rabbit2307/)
 
 I want to introduce myself as a little boy who loves to dream with the stars. People also often call me Orion and welcome to my Orionverse! Beyond the constellations, I am a high school student from Bangladesh with experience of both Astrophysical Research and International Olympiads. My research interest mostly lies formation and evolution of large-scale structures in this infinite universe. Specifically, I mostly like to explore the life cycles of galaxies and the complex dynamics of galaxy clusters. Beyond the static structures, I am deeply fascinated by the transients' universe. My technical foundation is built on Python, where I specialize in astronomical data analysis, complemented by a basic working proficiency in C.
 
