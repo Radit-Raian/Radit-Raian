@@ -13,13 +13,13 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 ## 📁 Featured Projects
 
 * **🌌 PSF Package Buildup**
-  An automated Point Spread Function (PSF) package using `Sextractor` and `PSFEx` to isolate and analyze faint Intra-cluster Light (ICL).
+  - An automated Point Spread Function (PSF) package using `Sextractor` and `PSFEx` to isolate and analyze faint Intra-cluster Light (ICL).
 
 * **🧬 MiMiC: Mining Minihalos in Galaxy Clusters**
-  Detecting minihalos in cold-core galaxies by integrating multi-wavelength X-Ray and Radio data.
+  - Detecting minihalos in cold-core galaxies by integrating multi-wavelength X-Ray and Radio data.
 
 * **💥 Spectral Analysis of Type Ia Supernovae**
-  Classifying Type Ia events through Gaussian Mixture Models (GMMs) and spectral signatures, such as Si II layer velocities.
+  - Classifying Type Ia events through Gaussian Mixture Models (GMMs) and spectral signatures, such as Si II layer velocities.
 
 ---
 
@@ -46,12 +46,5 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 ## 📊 GitHub Stats:
 
 <img alt="Orion's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbit2307&theme=white&&hide_border=true" width='48%' /> <img alt="Orion's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=rabbit2307&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-<br>
-
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
 
 
