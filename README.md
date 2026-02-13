@@ -5,7 +5,7 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 ---
 ## 🌟 Current Work
 
-- 🌀 **Research**: Research Intern (Onboarding) at Center for Astronomy, Space Science and Astrophysics, IUB, Dhaka
+- 🌀 **Researches**: Research Intern (Onboarding) at Center for Astronomy, Space Science and Astrophysics, IUB, Dhaka
 - ⚙️ **Academic Olympiads**: Currently enrolled in the final year of high school with focus on Physics and Astronomy & Astrophysics Olympiads.
 ---
 
