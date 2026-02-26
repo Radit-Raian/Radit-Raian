@@ -1,47 +1,84 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm [Radit Raian!](https://github.com/rabbit2307/)
+# 👋 Hello, I'm **Radit Raian**
 
-I want to introduce myself as a little boy who loves to dream with the stars. People also often call me Orion and welcome to my Orionverse! Beyond the constellations, I am a high school student from Bangladesh with experience of both Astrophysical Research and International Olympiads. My research interest mostly lies formation and evolution of large-scale structures in this infinite universe. Specifically, I mostly like to explore the life cycles of galaxies and the complex dynamics of galaxy clusters. Beyond the static structures, I am deeply fascinated by the transients' universe. My technical foundation is built on Python, where I specialize in astronomical data analysis, complemented by a basic working proficiency in C.
+🌠 *“A student who dreams with the stars.”*  
 
----
-## 🌟 Current Work
+Welcome to my **Orionverse**.
 
-- 🌀 **Researches**: Research Intern (Onboarding) at Center for Astronomy, Space Science and Astrophysics, IUB, Dhaka
-- ⚙️ **Academic Olympiads**: Currently enrolled in the final year of high school with focus on Physics and Astronomy & Astrophysics Olympiads.
----
+Beyond the constellations, I am a high school student from Bangladesh with experience of both Astrophysical Research and International Olympiads. My research interest mostly lies formation and evolution of large-scale structures in this infinite universe. Specifically, I mostly like to explore the life cycles of galaxies and the complex dynamics of galaxy clusters. Beyond the static structures, I am deeply fascinated by the transients' universe. My technical foundation is built on Python, where I specialize in astronomical data analysis, complemented by a basic working proficiency in C.
 
-## 📁 Featured Projects
+## 🌌 Research Interests
 
-* **🔭 PSF Package Buildup**
-  - An automated Point Spread Function (PSF) package using `Sextractor` and `Photutils` to isolate and analyze faint Intra-cluster Light (ICL).
+- Formation and evolution of large-scale structures  
+- Galaxy clusters and their dynamical processes  
+- Intra-cluster light (ICL) and faint structure detection  
+- Early-universe cosmology  
+- Transient universe (especially Type Ia Supernovae)  
 
-* **🌌 MiMiC: Mining Minihalos in Galaxy Clusters**
-  - Detecting minihalos in cold-core galaxies by integrating multi-wavelength X-Ray and Radio data.
-
-* **💥 Spectral Analysis of Type Ia Supernovae**
-  - Classifying Type Ia events through Gaussian Mixture Models (GMMs) and spectral signatures, such as Si II layer velocities.
+My technical foundation is built primarily on **Python** for astronomical data analysis, complemented by working proficiency in **C**.
 
 ---
 
-## 🛠 Skillsets
+## 🚀 Current Focus
 
-* **Programming:** `Python` (AstroPy, NumPy, SciPy, Astroquery, Seaborn, Matplotlib, Pandas), `C`.
-* **Data Analysis:** `SAOImage DS9`, `JS9`, `GALFIT`, `PSFEx`.
-* **Writing Tools:** `LaTeX`.
+- 🏛 **Research Intern (Onboarding)**  
+  Center for Astronomy, Space Science and Astrophysics (CASSA), IUB, Dhaka  
+
+- 🧠 **Olympiad Preparation**  
+  Physics and Astronomy/Astrophysics (Final year of high school)
 
 ---
+
+## 🔬 Featured Projects
+
+### 🔭 PSF Development Pipeline
+Automated Point Spread Function (PSF) construction pipeline integrating `SExtractor` and `Photutils` for faint source isolation and intra-cluster light analysis.
+
+### 🌌 MiMiC — Mining Minihalos in Galaxy Clusters
+Multi-wavelength analysis combining X-ray and radio observations to detect and study minihalos in cool-core galaxy clusters.
+
+### 💥 Type Ia Supernova Spectral Analysis
+Spectral classification and velocity extraction of Type Ia supernovae using Gaussian modeling and feature analysis (e.g., Si II absorption layers).
+
+### 🌠 Stochastic Inflation using PINNs
+Numerical modeling of stochastic inflationary dynamics using **Physics-Informed Neural Networks (PINNs)**.  
+Solving stochastic differential equations governing early-universe inflation by embedding physical constraints directly into neural network architectures.
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+- **Python** (AstroPy, NumPy, SciPy, Astroquery, Pandas, Matplotlib)
+- **C** (basic working proficiency)
+
+### Astronomical & Analysis Tools
+- SAOImage DS9 / JS9  
+- GALFIT  
+- PSFEx  
+- SExtractor
+- Astroquery
+
+### Writing & Documentation
+- LaTeX  
+
+---
+
+## 📈 GitHub Activity
+
 <div align="center">
-  
-[![Radit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Radit-Raian&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/Radit-Raian)
 
-</div>
-
+[![Radit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Radit-Raian&theme=react-dark&hide_border=true&area=true)](https://github.com/Radit-Raian)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌍 Connect With Me
 
-- ✉️ **Email**: raditraian1107@gmail.com
-- 🌌 **LinkedIn**: https://www.linkedin.com/in/raditraian/
-- 💻 **Website**: https://radit-raian.github.io/
+- ✉️ **Email:** raditraian1107@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/raditraian/  
+- 🌐 **Website:** https://radit-raian.github.io/  
+
+---
+
+⭐ *“Somewhere, something incredible is waiting to be known.”*
