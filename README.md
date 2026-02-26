@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Radit%20Raian&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Astrophysics+%7C+Cosmology;Galaxy+Clusters+%7C+Large-Scale+Structure;Stochastic+Inflation+%7C+PINNs;Exploring+the+Universe+Through+Code+🌌" />
+</p>
+
 # 👋 Hello, I'm **Radit Raian**
 
 🌠 *“A student who dreams with the stars.”*  
@@ -8,11 +16,11 @@ Beyond the constellations, I am a high school student from Bangladesh with exper
 
 ## 🌌 Research Interests
 
-- Formation and evolution of large-scale structures  
-- Galaxy clusters and their dynamical processes  
-- Intra-cluster light (ICL) and faint structure detection  
-- Early-universe cosmology  
-- Transient universe (especially Type Ia Supernovae)  
+- ✨ Large-Scale Structure Formation  
+- 🌠 Galaxy Clusters & Intracluster Light  
+- 💥 Transient Astronomy
+- 🌌 Early-Universe Cosmology  
+- 🧠 Stochastic Inflation via PINNs  
 
 My technical foundation is built primarily on **Python** for astronomical data analysis, complemented by working proficiency in **C**.
 
@@ -43,42 +51,56 @@ Spectral classification and velocity extraction of Type Ia supernovae using Gaus
 Numerical modeling of stochastic inflationary dynamics using **Physics-Informed Neural Networks (PINNs)**.  
 Solving stochastic differential equations governing early-universe inflation by embedding physical constraints directly into neural network architectures.
 
----
 
-## 🛠 Technical Skills
+## 🛠 Technical Stack
 
-### Programming
-- **Python** (AstroPy, NumPy, SciPy, Astroquery, Pandas, Matplotlib)
-- **C** (basic working proficiency)
+<p align="center">
 
-### Astronomical & Analysis Tools
-- SAOImage DS9 / JS9  
-- GALFIT  
-- PSFEx  
-- SExtractor
-- Astroquery
+<img src="https://skillicons.dev/icons?i=python,c,latex,git,github" />
 
-### Writing & Documentation
-- LaTeX  
 
----
+<p align="center">
+────────── ✦ ──────────
+</p>
 
-## 📈 GitHub Activity
+<p align="center">
+✦ SExtractor ✦ Photutils ✦ CIAO ✦ SAOImage DS9 ✦ Astroquery ✦
+</p>
 
-<div align="center">
 
-[![Radit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Radit-Raian&theme=react-dark&hide_border=true&area=true)](https://github.com/Radit-Raian)
+## 📊 Activity
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Radit-Raian&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
----
-
-## 🌍 Connect With Me
-
-- ✉️ **Email:** raditraian1107@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/raditraian/  
-- 🌐 **Website:** https://radit-raian.github.io/  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radit-Raian&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
+</p>
 
 ---
 
-⭐ *“Somewhere, something incredible is waiting to be known.”*
+## 🌍 Connect
+
+<p align="center">
+  <a href="mailto:raditraian1107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1e3c72?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raditraian/">
+    <img src="https://img.shields.io/badge/LinkedIn-2a5298?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://radit-raian.github.io/">
+    <img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌌 <i>"Let's Explore Beyond the Blue!"</i> 🌌
+</p>
+
+<!-- Cosmic Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+</p>
