@@ -41,7 +41,7 @@ My technical foundation is built primarily on **Python** for astronomical data a
 ### 🔭 PSF Development Pipeline
 Automated Point Spread Function (PSF) construction pipeline integrating `SExtractor` and `Photutils` for faint source isolation and intra-cluster light analysis.
 
-### 🌌 MiMiC — Mining Minihalos in Galaxy Clusters
+### 🌌 MiMiC: Mining Minihalos in Galaxy Clusters
 Multi-wavelength analysis combining X-ray and radio observations to detect and study minihalos in cool-core galaxy clusters.
 
 ### 💥 Type Ia Supernova Spectral Analysis
