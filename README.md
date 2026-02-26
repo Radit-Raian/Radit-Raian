@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Astrophysics+%7C+Cosmology;Galaxy+Clusters+%7C+Large-Scale+Structure;Stochastic+Inflation+%7C+PINNs;Exploring+the+Universe+Through+Code+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Orionverse!;Astrophysics+%7C+Cosmology;Galaxy+Clusters+%7C+Large-Scale+Structure;Let's+Explore+Beyond+the+Blue!;Exploring+the+Universe+Through+Code+🌌" />
 </p>
 
-# 👋 Hello, I'm **Radit Raian**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm **Radit Raian**!!
 
 🌠 *“A student who dreams with the stars.”*  
 
