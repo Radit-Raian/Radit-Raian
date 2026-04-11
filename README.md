@@ -10,7 +10,7 @@
 
 🌠 *“A student who dreams with the stars.”*  
 
-Welcome to my **Orionverse**.
+Welcome to my **Orionverse**!!
 
 Beyond the constellations, I am a high school student from Bangladesh with experience of both Astrophysical Research and International Olympiads. My research interest mostly lies formation and evolution of large-scale structures in this infinite universe. Specifically, I mostly like to explore the life cycles of galaxies and the complex dynamics of galaxy clusters. Beyond the static structures, I am deeply fascinated by the transients' universe. My technical foundation is built on Python, where I specialize in astronomical data analysis, complemented by a basic working proficiency in C.
 
