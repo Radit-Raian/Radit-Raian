@@ -38,7 +38,7 @@ My technical foundation is built primarily on **Python** for astronomical data a
 
 ## 🔬 Featured Projects
 
-### 🔭 PSF Development Pipeline
+### 🔭 PoLaRiS: PSF Development Pipeline
 Automated Point Spread Function (PSF) construction pipeline integrating `SExtractor` and `Photutils` for faint source isolation and intra-cluster light analysis.
 
 ### 🌌 GATE
